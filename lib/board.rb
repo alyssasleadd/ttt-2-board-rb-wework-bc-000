@@ -1,2 +1,3 @@
+board = Array.new 
 
  
