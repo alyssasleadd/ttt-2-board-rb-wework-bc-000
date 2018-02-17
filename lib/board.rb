@@ -1,3 +1,3 @@
-local_variables = "board"
-"board" = []
+local_variables = board
+board = []
  
